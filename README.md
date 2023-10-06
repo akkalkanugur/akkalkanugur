@@ -2,6 +2,7 @@
 - 👀 I’m interested in python coding
 - 🌱 I’m currently learning data sicience
 - 📫 How to reach me akkalkanugur@yahoo.com
+- 📫 Reach me also murat.akkalkan@boun.edu.tr 
 
 <!---
 akkalkanugur/akkalkanugur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
